@@ -3,7 +3,7 @@ This is a stock simulator based on the Monte Carlo simulation. What is the Monte
 
 ## Instructions
 To run this program follow the below steps:
-1. If you don't already have python3, pandas, numpy, matplotlib and pandas_datareader, install them using pip in your terminal like so:
+1. If you don't already have pandas, numpy, matplotlib and pandas_datareader, install them using pip in your terminal like so:
 ```bash
 pip install whichever_library_you_need
 ```
