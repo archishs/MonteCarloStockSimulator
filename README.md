@@ -8,4 +8,4 @@ To run this program follow the below steps:
 pip install whichever_library_you_need
 ```
 2. Clone or download this repository to your desktop
-3. Open the program in your IDE of choice and follow the instructions in the CLI to use the simulator
+3. Open the program in your IDE of choice and follow the instructions in the CLI to use the simulator. Be sure to input the ticker symbol in all caps and the dates using only numbers
